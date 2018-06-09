@@ -1,3 +1,3 @@
-num = 10
+num = 1000
 
 zhangsan is a luckyman
